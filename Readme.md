@@ -1,6 +1,4 @@
-# Onymos Software Engineer Assesment
-
-## Real-Time Stock Trading Engine
+# Real-Time Stock Trading Engine
 
 ### Problem Statement
 This project implements a real-time stock trading engine that efficiently processes Buy and Sell orders while ensuring concurrent execution and fairness. The system adheres to the following core requirements:
